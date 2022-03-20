@@ -11,7 +11,7 @@
             <div className='navbar'>
                 <Navbar />
             </div>
-            {/* <div className='main'>
+            <div className='main'>
                 <Layout>
                     <div className='routes'>
                         <Routes>
@@ -36,7 +36,7 @@
             </div>
             <div className='footer'>
 
-            </div> */}
+            </div>
         </div>
    )
  }
